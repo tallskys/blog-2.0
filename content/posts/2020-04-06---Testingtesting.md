@@ -2,7 +2,7 @@
 title: One Two Three and to the Four
 date: "2020-04-07"
 template: "post"
-draft: true
+draft: false
 slug: "testingtesting"
 category: "Personal"
 tags:

@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tannercarri.co',
   pathPrefix: '/',
   title: 'Blog by Tanner Carrico',
   subtitle: 'doin stuff.',
@@ -26,8 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Tanner Carrico',
-    photo: '/me.jpg',
-    bio: 'Big Buffy fan.',
+    bio: 'Software Developer who writes words and makes music.',
     contacts: {
       email: 'carricotanner@gmail.com',
       facebook: '',
