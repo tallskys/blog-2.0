@@ -17,16 +17,15 @@
         font-size: $typographic-base-font-size;
         color: $typographic-base-font-color;
         font-weight: normal;
-        border: 0;
 
         &:hover,
         &:focus {
-          color: $color-primary;
-          border-bottom: 1px solid $color-primary;
+          color: #e1b382;
+          border-bottom: 1px solid white;
         }
 
         &--active {
-          color: $color-base;
+          color: #e1b382;
           border-bottom: 1px solid $color-base;
         }
 

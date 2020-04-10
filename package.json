@@ -16,9 +16,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
-  "license": "MIT",
+  "repository": "",
   "keywords": [
     "gatsby",
     "graphql",
@@ -42,6 +40,7 @@
     "classnames": "^2.2.6",
     "codecov": "^3.6.5",
     "gatsby": "^2.20.12",
+    "gatsby-cli": "^2.11.7",
     "gatsby-link": "^2.3.2",
     "gatsby-plugin-catch-links": "^2.2.1",
     "gatsby-plugin-feed": "^2.4.1",
