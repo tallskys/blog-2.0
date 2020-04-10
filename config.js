@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://tannercarri.co',
   pathPrefix: '/',
-  title: 'Blog by Tanner Carrico',
-  subtitle: 'doin stuff.',
+  title: 'Tanner Carrico',
+  subtitle: 'code/music/thoughts',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
