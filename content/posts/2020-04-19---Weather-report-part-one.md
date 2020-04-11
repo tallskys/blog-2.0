@@ -2,7 +2,7 @@
 title: Weather Report pt. 1
 date: "2020-04-19"
 template: "post"
-draft: false
+draft: true
 slug: "weather-report-1"
 category: "Fiction"
 tags:

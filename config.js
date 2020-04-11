@@ -6,7 +6,6 @@ module.exports = {
   title: 'Tanner Carrico',
   subtitle: 'code/music/thoughts',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: '',
   useKatex: false,
@@ -14,10 +13,6 @@ module.exports = {
     {
       label: 'Articles',
       path: '/'
-    },
-    {
-      label: 'About me',
-      path: '/pages/about'
     },
     {
       label: 'Learn',
