@@ -35,7 +35,7 @@ module.exports = {
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: 'https://codepen.io/tcarrico',
+      codepen: '',
       youtube: '',
       soundcloud: '',
     }
