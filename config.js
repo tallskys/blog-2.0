@@ -11,7 +11,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Writing',
       path: '/'
     },
     {

@@ -20,13 +20,13 @@
 
         &:hover,
         &:focus {
-          color: #e1b382;
+          color: $color-primary;
           border-bottom: 1px solid white;
         }
 
         &--active {
-          color: #e1b382;
-          border-bottom: 1px solid $color-base;
+          color: $link-color;
+          border-bottom: 1px solid $color-secondary;
         }
 
       }

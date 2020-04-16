@@ -21,6 +21,9 @@ const Feed = ({ edges }: Props) => (
           <span className={styles['feed__item-meta-category']}>
             <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
           </span>
+          <span className={styles['feed__item-meta-tag']}>
+            <Link to={edge.node.fields.tagSlugs} className={styles['feed__item-meta-tag-link']}>{edge.node.frontmatter.tags}</Link>
+          </span>
         </div>
         <h2 className={styles['feed__item-title']}>
           <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
@@ -30,5 +33,7 @@ const Feed = ({ edges }: Props) => (
     ))}
   </div>
 );
+
+console.log('hey friend, how are you today?');
 
 export default Feed;
