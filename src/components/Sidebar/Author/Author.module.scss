@@ -17,11 +17,11 @@
     @include margin(.5, 0, .5, 0);
 
     &-link {
-      color: #f95d9b;
+      color: #F7AAC8;
 
       &:hover,
       &:focus {
-        color: $color-secondary;
+        color: $color-primary;
       }
 
     }

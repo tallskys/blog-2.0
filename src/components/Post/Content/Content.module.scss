@@ -66,6 +66,7 @@
 
     &__title {
       font-size: $typographic-base-font-size * 3;
+      color: #6A8E7F;
       @include line-height(2.25);
       @include margin-top(2.25);
       @include margin-bottom(1.5)
