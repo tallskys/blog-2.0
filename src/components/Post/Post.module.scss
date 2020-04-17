@@ -21,7 +21,8 @@
     padding: 0 24px;
     line-height: $button-height;
     text-align: center;
-    color: $color-base;
+    color: $color-primary;
+    background-color: $button-color;
     border: 1px solid $color-gray-border;
     border-radius: $button-border-radius;
     font-size: $typographic-base-font-size;
@@ -33,6 +34,7 @@
     &:hover,
     &:focus {
       color: $color-primary;
+      background-color: $color-background;
     }
 
   }

@@ -17,7 +17,7 @@ module.exports = {
     {
       label: 'Learn',
       path: '/pages/learn'
-    }
+    },
   ],
   author: {
     name: 'Tanner Carrico',

@@ -1,5 +1,5 @@
 ---
-title: Weather Report pt. 1
+title: Weather Report
 date: "2020-04-19"
 template: "post"
 draft: false

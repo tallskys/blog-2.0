@@ -5,12 +5,13 @@
 // Colors
 $color-base: #39a0ca;
 $color-primary: #f95d9b;
-$color-secondary: #DFBBB1;
+$color-secondary: #D8DDEF;
 $color-background: #161748;
 $link-color: #6A8E7F;
+$button-color: #45456d;
 
 $color-white: #EDEFED;
-$color-gray: lighten($color-base, 40%);
+$color-gray: lighten($color-primary, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
