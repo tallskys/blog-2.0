@@ -110,7 +110,7 @@ goodFriend.catch(function(resolve){
 ```
 This now returns the fact that I'm a garbage friend since I couldn't come through for my friend after promising them something. It spits out the reject console.log and does _not_ move on to `goodFriend.then()` but instead moves to `goodFriend.catch()` and let's me know that not only do I suck, but my friend is still sick.
 
-This is a super ultra-simplified of Promises, and there are much better references out there, like these ones:
+That was a super ultra-simplified of Promises, and maybe too soup related, so here are much better references:
 
 -[MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
