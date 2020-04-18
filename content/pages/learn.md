@@ -34,7 +34,7 @@ I'm on a mission to learn or re-learn as much as possible in the fields of my ch
   - SQL in-depth
   - Git in-depth
   - HTTPS
-  -Typescript
+  - Typescript
   - JSON
 
   ### Music

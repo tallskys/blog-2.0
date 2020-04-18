@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'code/music/thoughts',
   copyright: '© All rights reserved.',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-85959616-2',
   useKatex: false,
   menu: [
     {
