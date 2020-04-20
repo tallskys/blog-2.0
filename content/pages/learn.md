@@ -12,30 +12,40 @@ I'm on a mission to learn or re-learn as much as possible in the fields of my ch
 ### Javascript
  - [Promises](/posts/js-promises)*
  - Async/Await
- - Scope
- - Prototype
+ - Prototypes
   - REST
+  - .Filter()
+  - Closure
+  - Scope In-Depth
+  - Node.js
 
   ### Computer Science
   - Big O
   - Sorting
   - Searching
   - Recursion
+  - Tree and Graph Data Structures
 
   ### Automation
   - Selenium
   - Cypress
 
-  ### General Code Stuff
+  ### Other Code Stuff
   - Gatsby
   - React
+  - Redux
   - GraphQL
+  - Apollo
+  - CSS Grid
   - Sass
   - SQL in-depth
   - Git in-depth
   - HTTPS
   - Typescript
+  - Web Sockets
   - JSON
+   - Go
+   - Containers
 
   ### Music
   - Music Theory
