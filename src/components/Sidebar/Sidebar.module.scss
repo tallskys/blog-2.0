@@ -20,10 +20,11 @@
                 position: absolute;
                 content: '';
                 width: 1px;
-                height: 540px;
+                height: 640px;
                 top: 30px;
                 right: -10px;
                 bottom: 0;
+                transform: skew(.19rad);
             }
         }
     }

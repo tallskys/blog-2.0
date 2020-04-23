@@ -35,6 +35,7 @@
     &:focus {
       color: $color-primary;
       background-color: $button-color;
+      transition: 5s ease-out;
     }
 
   }

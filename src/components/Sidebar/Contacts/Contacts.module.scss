@@ -36,6 +36,7 @@
         &:hover,
         &:focus {
           color: $color-primary;
+          transition: 1s ease-in;
         }
 
       }

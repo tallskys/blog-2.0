@@ -15,8 +15,12 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'Learn',
+      label: 'Learning',
       path: '/pages/learn'
+    },
+    {
+      label: 'Coding',
+      path: 'category/code'
     },
   ],
   author: {
