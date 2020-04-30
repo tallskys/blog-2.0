@@ -113,5 +113,9 @@
     "stylelint": "13.3.0",
     "stylelint-config-recommended-scss": "4.2.0",
     "stylelint-scss": "3.16.0"
+  },
+  "resolutions": {
+    "**/react": "16.13.1",
+    "**/react-dom": "16.13.1"
   }
 }
